@@ -1,33 +1,40 @@
-Ip Info Web 
+ <h1>Ip Info Web</h1> 
 
-Türkçe;
+<h2>Türkçe;</h2>
 
-<h1> Başlangıç </h1>
+<h3> Başlangıç </h3>
 
-Çevirimiçi Kodlama Siteleri için (Replit, Glitch, GoormIde, Heroku, v.b)
+Çevirimiçi Kodlama Siteleri için (<a href="https://replit.com/">Replit</a>, <a href="https://glitch.com/">Glitch</a>, <a href="https://ide.goorm.io/">GoormIde</a>, <a href="https://heroku.com/">Heroku</a>, ...)
 
+```js
 npm init -y
 
-npm i body-parser discord.js express ipinfo node-ipinfo 
+npm i body-parser discord.js express ipinfo node-ipinfo  
+```
 
 Visual Studio Code için
 
+```js
 npm init -y
 
 npm i body-parser discord.js express ipinfo node-ipinfo --save
+```
+<h2>English;</h2>
 
-English;
+<h3> Start </h3>
 
-<h1> Start </h1>
+For Online Coding Sites (<a href="https://replit.com/">Replit</a>, <a href="https://glitch.com/">Glitch</a>, <a href="https://ide.goorm.io/">GoormIde</a>, <a href="https://heroku.com/">Heroku</a> ...)
 
-For Online Coding Sites (Replit, Glitch, GoormIde, Heroku, etc.)
-
+```js
 npm init -y
 
 npm i body-parser discord.js express ipinfo node-ipinfo 
+```
 
 For Visual Studio Code
 
+```js
 npm init -y
 
 npm i body-parser discord.js express ipinfo node-ipinfo --save
+```
